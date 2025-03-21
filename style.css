@@ -1,0 +1,29 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+height: 100vh;    
+}
+.a{
+    height:75px;
+    width: 360px;
+    background-color:#d72427;
+}
+.b{
+    height: 80px;
+    width: 360px;
+    background-color: white;
+}
+.c{
+    height: 75px;
+    width: 360px;
+    background-color:#d72427 ;
+}
+.p{
+    display: flex;
+    flex-direction: column;
+ border: 2px solid black;
+
+
+}
